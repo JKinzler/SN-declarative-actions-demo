@@ -100,6 +100,9 @@
         <template/>
         <template_manager_roles/>
         <type>item</type>
+        <u_service/>
+        <u_service_based>false</u_service_based>
+        <u_service_offering/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
         <version>7</version>
